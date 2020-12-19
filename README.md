@@ -10,8 +10,8 @@
 Cross-platform, offline, field mapping tool for OpenStreetMap
 
 ## Download
-* [v0.2.0-alpha](https://github.com/developmentseed/observe/releases/tag/v0.2.0-alpha)
-* [v0.1.8](https://github.com/developmentseed/observe/releases/tag/v0.1.8)
+
+See [Releases](https://github.com/developmentseed/observe/releases) where you can download the latest development releases of the app.
 
 ## Documentation
 
